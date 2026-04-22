@@ -170,8 +170,8 @@
 
     .chart-block--wide {
       width: min(calc(100vw - 32px), var(--wide-width));
-      margin-left: 50%;
-      transform: translateX(-50%);
+      margin-left: -20%; 
+      transform: translateX(-150%);
     }
 
     .chart-label {
@@ -412,7 +412,7 @@
           </p>
         </section>
 
-        <section class="chart-block fade-in" aria-labelledby="chart-2-title">
+        <section class="chart-block--wide fade-in" aria-labelledby="chart-2-title">
           <div class="chart-label">Figure 2</div>
           <h3 class="chart-title" id="chart-2-title">A second Flourish embed, map, or annotated chart</h3>
           <p class="chart-caption">
@@ -421,13 +421,7 @@
           </p>
 
           <div class="flourish-embed-wrap">
-            <div class="flourish-placeholder">
-              <div>
-                <strong>Second embed slot</strong><br /><br />
-                You can duplicate or remove sections depending on the needs of
-                your narrative.
-              </div>
-            </div>
+                <div class="flourish-embed flourish-chart" data-src="visualisation/28653725"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28653725/thumbnail" width="100%" alt="visualization" /></noscript></div>
           </div>
 
           <div class="data-note">
