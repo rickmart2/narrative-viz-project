@@ -170,8 +170,8 @@
 
     .chart-block--wide {
       width: min(calc(100vw - 32px), var(--wide-width));
-      margin-left: -20%; 
-      transform: translateX(-150%);
+      margin-left: -20%;
+      transform: translateX(-50%);
     }
 
     .chart-label {
@@ -235,6 +235,49 @@
       font-family: Arial, Helvetica, sans-serif;
       font-size: 0.95rem;
       color: #4a463f;
+    }
+
+    .viz-switcher {
+      display: inline-flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 0 0 18px;
+      padding: 6px;
+      border: 1px solid var(--rule);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.7);
+      box-shadow: var(--shadow);
+    }
+
+    .viz-toggle {
+      border: 0;
+      background: transparent;
+      color: var(--muted);
+      padding: 10px 16px;
+      border-radius: 999px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.2s ease, color 0.2s ease;
+    }
+
+    .viz-toggle:hover {
+      background: #f1ece4;
+      color: var(--text);
+    }
+
+    .viz-toggle.is-active {
+      background: var(--accent);
+      color: white;
+    }
+
+    .viz-panel {
+      display: none;
+    }
+
+    .viz-panel.is-active {
+      display: block;
     }
 
     .divider {
@@ -356,25 +399,7 @@
             some of that explanatory work for you.
           </p>
         </section>
-        <section class="chart-block fade-in" aria-labelledby="chart-0-title">
-          <div class="chart-label">Figure 1</div>
-          <h3 class="chart-title" id="chart-0-title">Your first interactive visualization</h3>
-          <p class="chart-caption">
-            Use the caption to tell the reader what the chart shows before they
-            interact with it. This is also a good place to guide them toward a
-            specific action, such as hovering, filtering, or comparing categories.
-          </p>
-          
-            <div class="flourish-embed-wrap">
-            <!-- Replace this placeholder div with your Flourish embed code -->
-          <div class="flourish-embed flourish-cards" data-src="visualisation/28638254"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28638254/thumbnail" width="100%" alt="cards visualization" /></noscript></div>
 
-            <!-- Example Flourish structure:
-            <div class="flourish-embed flourish-chart" data-src="visualisation/00000000"></div>
-            <script src="https://public.flourish.studio/resources/embed.js"></script>
-            -->
-          </div>
-          
         <section class="chart-block fade-in" aria-labelledby="chart-1-title">
           <div class="chart-label">Figure 1</div>
           <h3 class="chart-title" id="chart-1-title">Your first interactive visualization</h3>
@@ -432,20 +457,110 @@
 
         <section class="chart-block--wide fade-in" aria-labelledby="chart-2-title">
           <div class="chart-label">Figure 2</div>
-          <h3 class="chart-title" id="chart-2-title">A second Flourish embed, map, or annotated chart</h3>
+          <h3 class="chart-title" id="chart-2-title">Compare the standard view and the box plot view</h3>
           <p class="chart-caption">
-            This is a good place for a chart that supports comparison, trend
-            exploration, or annotation. Keep the caption direct and specific.
+            Use the buttons below to switch between the base visualization and the version that adds box plots for more distributional context.
           </p>
 
-          <div class="flourish-embed-wrap">
-                <div class="flourish-embed flourish-chart" data-src="visualisation/28653725"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28653725/thumbnail" width="100%" alt="visualization" /></noscript></div>
+          <div class="viz-switcher" role="tablist" aria-label="Visualization view switcher">
+            <button class="viz-toggle is-active" type="button" data-target="viz-basic" aria-selected="true">
+              Visual 1
+            </button>
+            <button class="viz-toggle" type="button" data-target="viz-box" aria-selected="false">
+              Visual 2 with box plots
+            </button>
+          </div>
+
+          <div class="viz-panel is-active" id="viz-basic" role="tabpanel">
+            <div class="flourish-embed-wrap">
+              <div class="flourish-embed flourish-chart" data-src="visualisation/28653725"></div>
+            </div>
+          </div>
+
+          <div class="viz-panel" id="viz-box" role="tabpanel" hidden>
+            <div class="flourish-embed-wrap">
+              <div class="flourish-embed flourish-chart" data-src="visualisation/28654262"></div>
+            </div>
           </div>
 
           <div class="data-note">
-            <strong>Note:</strong> Add a short methods or source note here if the
-            reader needs context about how to interpret the data.
+            <strong>Note:</strong> Visual 2 adds box plots to show spread and outliers more clearly, while Visual 1 keeps the main pattern easier to scan.
           </div>
+        </section>
+
+        <section class="chart-block--wide fade-in" aria-labelledby="chart-1-title">
+          <div class="chart-label">Figure 1</div>
+          <h3 class="chart-title" id="chart-1-title">Your first interactive visualization</h3>
+          <p class="chart-caption">
+            Use the caption to tell the reader what the chart shows before they
+            interact with it. This is also a good place to guide them toward a
+            specific action, such as hovering, filtering, or comparing categories.
+          </p>
+
+          <div class="flourish-embed-wrap">
+            <!-- Replace this placeholder div with your Flourish embed code -->
+            <div class="flourish-embed flourish-chart" data-src="visualisation/28671118"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28671118/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+            <!-- Example Flourish structure:
+            <div class="flourish-embed flourish-chart" data-src="visualisation/00000000"></div>
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            -->
+          </div>
+
+          <p class="scrolly-note">
+            Reader prompt: Hover over the chart, compare categories, or use the
+            filter to see how the pattern changes.
+          </p>
+        </section>
+
+        <section class="chart-block--wide fade-in" aria-labelledby="chart-1-title">
+          <div class="chart-label">Figure 1</div>
+          <h3 class="chart-title" id="chart-1-title">Your first interactive visualization</h3>
+          <p class="chart-caption">
+            Use the caption to tell the reader what the chart shows before they
+            interact with it. This is also a good place to guide them toward a
+            specific action, such as hovering, filtering, or comparing categories.
+          </p>
+
+          <div class="flourish-embed-wrap">
+            <!-- Replace this placeholder div with your Flourish embed code -->
+            <div class="flourish-embed flourish-cards" data-src="visualisation/28638254"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28638254/thumbnail" width="100%" alt="cards visualization" /></noscript></div>
+
+            <!-- Example Flourish structure:
+            <div class="flourish-embed flourish-chart" data-src="visualisation/00000000"></div>
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            -->
+          </div>
+
+          <p class="scrolly-note">
+            Reader prompt: Hover over the chart, compare categories, or use the
+            filter to see how the pattern changes.
+          </p>
+        </section>
+
+        <section class="chart-block--wide fade-in" aria-labelledby="chart-1-title">
+          <div class="chart-label">Figure 1</div>
+          <h3 class="chart-title" id="chart-1-title">Your first interactive visualization</h3>
+          <p class="chart-caption">
+            Use the caption to tell the reader what the chart shows before they
+            interact with it. This is also a good place to guide them toward a
+            specific action, such as hovering, filtering, or comparing categories.
+          </p>
+
+          <div class="flourish-embed-wrap">
+            <!-- Replace this placeholder div with your Flourish embed code -->
+            <div class="flourish-embed flourish-cards" data-src="visualisation/28672348"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28672348/thumbnail" width="100%" alt="cards visualization" /></noscript></div>
+
+            <!-- Example Flourish structure:
+            <div class="flourish-embed flourish-chart" data-src="visualisation/00000000"></div>
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            -->
+          </div>
+
+          <p class="scrolly-note">
+            Reader prompt: Hover over the chart, compare categories, or use the
+            filter to see how the pattern changes.
+          </p>
         </section>
 
         <hr class="divider" />
@@ -486,6 +601,35 @@
     );
 
     document.querySelectorAll('.fade-in').forEach((el) => observer.observe(el));
+
+    const toggleButtons = document.querySelectorAll('.viz-toggle');
+    const vizPanels = document.querySelectorAll('.viz-panel');
+
+    toggleButtons.forEach((button) => {
+      button.addEventListener('click', () => {
+        const targetId = button.dataset.target;
+
+        toggleButtons.forEach((btn) => {
+          btn.classList.remove('is-active');
+          btn.setAttribute('aria-selected', 'false');
+        });
+
+        vizPanels.forEach((panel) => {
+          panel.classList.remove('is-active');
+          panel.hidden = true;
+        });
+
+        button.classList.add('is-active');
+        button.setAttribute('aria-selected', 'true');
+
+        const activePanel = document.getElementById(targetId);
+        if (activePanel) {
+          activePanel.classList.add('is-active');
+          activePanel.hidden = false;
+        }
+      });
+    });
   </script>
 </body>
 </html>
+
