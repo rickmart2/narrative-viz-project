@@ -1,0 +1,80 @@
+,Name,Occupation,term_start,Party,era,occupation_individual,occupation_group
+0,George Washington,"Plantation Owner, Soldier",1789,"None, Federalist",Founding Generation,Plantation Owner,Agriculture / Land
+0,George Washington,"Plantation Owner, Soldier",1789,"None, Federalist",Founding Generation,Soldier,Military
+1,John Adams,"Lawyer, Farmer",1797,Federalist,Founding Generation,Lawyer,Law / Legal
+1,John Adams,"Lawyer, Farmer",1797,Federalist,Founding Generation,Farmer,Agriculture / Land
+2,Thomas Jefferson,"Inventor,Lawyer, Architect",1801,Democratic-Republican,Founding Generation,Inventor,Technical / Professional
+2,Thomas Jefferson,"Inventor,Lawyer, Architect",1801,Democratic-Republican,Founding Generation,Lawyer,Law / Legal
+2,Thomas Jefferson,"Inventor,Lawyer, Architect",1801,Democratic-Republican,Founding Generation,Architect,Technical / Professional
+3,James Madison,"Plantation Owner, Lawyer",1809,Democratic-Republican,Founding Generation,Plantation Owner,Agriculture / Land
+3,James Madison,"Plantation Owner, Lawyer",1809,Democratic-Republican,Founding Generation,Lawyer,Law / Legal
+4,James Monroe,"Plantation Owner, Lawyer",1817,Democratic-Republican,Civil War,Plantation Owner,Agriculture / Land
+4,James Monroe,"Plantation Owner, Lawyer",1817,Democratic-Republican,Civil War,Lawyer,Law / Legal
+5,John Quincy Adams,"Lawyer, Diplomat",1825,Democratic-Republican,Civil War,Lawyer,Law / Legal
+5,John Quincy Adams,"Lawyer, Diplomat",1825,Democratic-Republican,Civil War,Diplomat,Government / Public Service
+6,Andrew Jackson,"Soldier, Lawyer",1829,Democratic,Civil War,Soldier,Military
+6,Andrew Jackson,"Soldier, Lawyer",1829,Democratic,Civil War,Lawyer,Law / Legal
+7,Martin van Buren,Lawyer,1837,Democratic,Civil War,Lawyer,Law / Legal
+8,William H. Harrison,Soldier,1841,Whig,Civil War,Soldier,Military
+9,John Tyler,Lawyer,1841,"Whig, No Party",Civil War,Lawyer,Law / Legal
+10,James K. Polk,"Lawyer, Plantation Owner",1845,Democratic,Civil War,Lawyer,Law / Legal
+10,James K. Polk,"Lawyer, Plantation Owner",1845,Democratic,Civil War,Plantation Owner,Agriculture / Land
+11,Zachary Taylor,Soldier,1849,Whig,Civil War,Soldier,Military
+12,Millard Fillmore,Lawyer,1850,Whig,Civil War,Lawyer,Law / Legal
+13,Franklin Pierce,Lawyer,1853,Democratic,Civil War,Lawyer,Law / Legal
+14,James Buchanan,"Lawyer, Diplomat",1857,Democratic,Civil War,Lawyer,Law / Legal
+14,James Buchanan,"Lawyer, Diplomat",1857,Democratic,Civil War,Diplomat,Government / Public Service
+15,Abraham Lincoln,"Land Surveyor, Lawyer",1861,Republican,Civil War,Land Surveyor,Agriculture / Land
+15,Abraham Lincoln,"Land Surveyor, Lawyer",1861,Republican,Civil War,Lawyer,Law / Legal
+16,Andrew Johnson,Tailor,1865,National Union,Civil War,Tailor,Trades / Labor
+17,Ulysses S. Grant,Soldier (General of the Army),1869,Republican,Civil War,Soldier (General of the Army),Military
+18,Rutherford Hayes,Lawyer,1877,Republican,Industrial Expansion,Lawyer,Law / Legal
+19,James Garfield,"School Teacher, Minister, Soldier",1881,Republican,Industrial Expansion,School Teacher,Education / Academia
+19,James Garfield,"School Teacher, Minister, Soldier",1881,Republican,Industrial Expansion,Minister,Religion
+19,James Garfield,"School Teacher, Minister, Soldier",1881,Republican,Industrial Expansion,Soldier,Military
+20,Chester Arthur,Customs Collector of NY port,1881,Republican,Industrial Expansion,Customs Collector of NY port,Government / Public Service
+21,Grover Cleveland,"Sheriff, Lawyer, Teacher",1885,Democratic,Industrial Expansion,Sheriff,Government / Public Service
+21,Grover Cleveland,"Sheriff, Lawyer, Teacher",1885,Democratic,Industrial Expansion,Lawyer,Law / Legal
+21,Grover Cleveland,"Sheriff, Lawyer, Teacher",1885,Democratic,Industrial Expansion,Teacher,Education / Academia
+22,Benjamin Harrison,"Lawyer, Journalist",1889,Republican,Industrial Expansion,Lawyer,Law / Legal
+22,Benjamin Harrison,"Lawyer, Journalist",1889,Republican,Industrial Expansion,Journalist,Media / Writing
+23,Grover Cleveland,"Sheriff, Lawyer, Teacher",1893,Democratic,Industrial Expansion,Sheriff,Government / Public Service
+23,Grover Cleveland,"Sheriff, Lawyer, Teacher",1893,Democratic,Industrial Expansion,Lawyer,Law / Legal
+23,Grover Cleveland,"Sheriff, Lawyer, Teacher",1893,Democratic,Industrial Expansion,Teacher,Education / Academia
+24,William McKinley,Lawyer,1897,Republican,Industrial Expansion,Lawyer,Law / Legal
+25,Theodore Roosevelt,"Public Official, Rancher, Author",1901,Republican,Industrial Expansion,Public Official,Government / Public Service
+25,Theodore Roosevelt,"Public Official, Rancher, Author",1901,Republican,Industrial Expansion,Rancher,Agriculture / Land
+25,Theodore Roosevelt,"Public Official, Rancher, Author",1901,Republican,Industrial Expansion,Author,Media / Writing
+26,William Taft,"Judge, Dean of Law School",1909,Republican,Industrial Expansion,Judge,Law / Legal
+26,William Taft,"Judge, Dean of Law School",1909,Republican,Industrial Expansion,Dean of Law School,Law / Legal
+27,Woodrow Wilson," Professor, Political scientist",1913,Democratic,Industrial Expansion,Professor,Education / Academia
+27,Woodrow Wilson," Professor, Political scientist",1913,Democratic,Industrial Expansion,Political scientist,Education / Academia
+28,Warren Harding,Newspaper Publisher/Editor,1921,Republican,World Wars,Newspaper Publisher/Editor,Media / Writing
+29,Calvin Coolidge,"Lawyer, Banker",1923,Republican,World Wars,Lawyer,Law / Legal
+29,Calvin Coolidge,"Lawyer, Banker",1923,Republican,World Wars,Banker,Business / Finance
+30,Herbert C. Hoover,Engineer,1929,Republican,World Wars,Engineer,Technical / Professional
+31,Franklin Roosevelt,Lawyer,1933,Democratic,World Wars,Lawyer,Law / Legal
+32,Harry S Truman,"Farmer, Men'S Clothing Retailer",1945,Democratic,World Wars,Farmer,Agriculture / Land
+32,Harry S Truman,"Farmer, Men'S Clothing Retailer",1945,Democratic,World Wars,Men'S Clothing Retailer,Business / Finance
+33,Dwight Eisenhower,"Soldier, General",1953,Republican,Cold War,Soldier,Military
+33,Dwight Eisenhower,"Soldier, General",1953,Republican,Cold War,General,Military
+34,John F. Kennedy," U.S. Navy Officer, Author",1961,Democratic,Cold War,U.S. Navy Officer,Military
+34,John F. Kennedy," U.S. Navy Officer, Author",1961,Democratic,Cold War,Author,Media / Writing
+35,Lyndon Johnson,"Teacher, Public Official",1963,Democratic,Cold War,Teacher,Education / Academia
+35,Lyndon Johnson,"Teacher, Public Official",1963,Democratic,Cold War,Public Official,Government / Public Service
+36,Richard Nixon,"Lawyer, Public Official",1969,Republican,Cold War,Lawyer,Law / Legal
+36,Richard Nixon,"Lawyer, Public Official",1969,Republican,Cold War,Public Official,Government / Public Service
+37,Gerald R. Ford,"Lawyer, Public Official",1974,Republican,Cold War,Lawyer,Law / Legal
+37,Gerald R. Ford,"Lawyer, Public Official",1974,Republican,Cold War,Public Official,Government / Public Service
+38,Jimmy Carter,"Navy Officer, Peanut Farmer",1977,Democratic,Cold War,Navy Officer,Military
+38,Jimmy Carter,"Navy Officer, Peanut Farmer",1977,Democratic,Cold War,Peanut Farmer,Agriculture / Land
+39,Ronald Reagan,"Actor, Union leaser",1981,Republican,Cold War,Actor,Media / Writing
+39,Ronald Reagan,"Actor, Union leaser",1981,Republican,Cold War,Union leaser,Trades / Labor
+40,George H. W. Bush,Businessman (Oil),1989,Republican,Cold War,Businessman (Oil),Business / Finance
+41,Bill Clinton,"Lawyer, Law Lecturer",1993,Democratic,Modern Day,Lawyer,Law / Legal
+41,Bill Clinton,"Lawyer, Law Lecturer",1993,Democratic,Modern Day,Law Lecturer,Law / Legal
+42,George W. Bush,"Businessman (Oil, Baseball) ",2001,Republican,Modern Day,Businessman (Oil,Business / Finance
+43,Barack Obama,Law Professor,2009,Democratic,Modern Day,Law Professor,Law / Legal
+44,Donald Trump,Real estate,2017,Republican,Modern Day,Real estate,Business / Finance
+45,Joe Biden,Lawyer,2021,Democratic,Modern Day,Lawyer,Law / Legal
+46,Donald Trump,Real estate,2025,Republican,Modern Day,Real estate,Business / Finance
