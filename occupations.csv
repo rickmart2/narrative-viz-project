@@ -1,80 +1,80 @@
-,Name,Occupation,term_start,Party,era,occupation_individual,occupation_group
-0,George Washington,"Plantation Owner, Soldier",1789,"None, Federalist",Founding Generation,Plantation Owner,Agriculture / Land
-0,George Washington,"Plantation Owner, Soldier",1789,"None, Federalist",Founding Generation,Soldier,Military
-1,John Adams,"Lawyer, Farmer",1797,Federalist,Founding Generation,Lawyer,Law / Legal
-1,John Adams,"Lawyer, Farmer",1797,Federalist,Founding Generation,Farmer,Agriculture / Land
-2,Thomas Jefferson,"Inventor,Lawyer, Architect",1801,Democratic-Republican,Founding Generation,Inventor,Technical / Professional
-2,Thomas Jefferson,"Inventor,Lawyer, Architect",1801,Democratic-Republican,Founding Generation,Lawyer,Law / Legal
-2,Thomas Jefferson,"Inventor,Lawyer, Architect",1801,Democratic-Republican,Founding Generation,Architect,Technical / Professional
-3,James Madison,"Plantation Owner, Lawyer",1809,Democratic-Republican,Founding Generation,Plantation Owner,Agriculture / Land
-3,James Madison,"Plantation Owner, Lawyer",1809,Democratic-Republican,Founding Generation,Lawyer,Law / Legal
-4,James Monroe,"Plantation Owner, Lawyer",1817,Democratic-Republican,Civil War,Plantation Owner,Agriculture / Land
-4,James Monroe,"Plantation Owner, Lawyer",1817,Democratic-Republican,Civil War,Lawyer,Law / Legal
-5,John Quincy Adams,"Lawyer, Diplomat",1825,Democratic-Republican,Civil War,Lawyer,Law / Legal
-5,John Quincy Adams,"Lawyer, Diplomat",1825,Democratic-Republican,Civil War,Diplomat,Government / Public Service
-6,Andrew Jackson,"Soldier, Lawyer",1829,Democratic,Civil War,Soldier,Military
-6,Andrew Jackson,"Soldier, Lawyer",1829,Democratic,Civil War,Lawyer,Law / Legal
-7,Martin van Buren,Lawyer,1837,Democratic,Civil War,Lawyer,Law / Legal
-8,William H. Harrison,Soldier,1841,Whig,Civil War,Soldier,Military
-9,John Tyler,Lawyer,1841,"Whig, No Party",Civil War,Lawyer,Law / Legal
-10,James K. Polk,"Lawyer, Plantation Owner",1845,Democratic,Civil War,Lawyer,Law / Legal
-10,James K. Polk,"Lawyer, Plantation Owner",1845,Democratic,Civil War,Plantation Owner,Agriculture / Land
-11,Zachary Taylor,Soldier,1849,Whig,Civil War,Soldier,Military
-12,Millard Fillmore,Lawyer,1850,Whig,Civil War,Lawyer,Law / Legal
-13,Franklin Pierce,Lawyer,1853,Democratic,Civil War,Lawyer,Law / Legal
-14,James Buchanan,"Lawyer, Diplomat",1857,Democratic,Civil War,Lawyer,Law / Legal
-14,James Buchanan,"Lawyer, Diplomat",1857,Democratic,Civil War,Diplomat,Government / Public Service
-15,Abraham Lincoln,"Land Surveyor, Lawyer",1861,Republican,Civil War,Land Surveyor,Agriculture / Land
-15,Abraham Lincoln,"Land Surveyor, Lawyer",1861,Republican,Civil War,Lawyer,Law / Legal
-16,Andrew Johnson,Tailor,1865,National Union,Civil War,Tailor,Trades / Labor
-17,Ulysses S. Grant,Soldier (General of the Army),1869,Republican,Civil War,Soldier (General of the Army),Military
-18,Rutherford Hayes,Lawyer,1877,Republican,Industrial Expansion,Lawyer,Law / Legal
-19,James Garfield,"School Teacher, Minister, Soldier",1881,Republican,Industrial Expansion,School Teacher,Education / Academia
-19,James Garfield,"School Teacher, Minister, Soldier",1881,Republican,Industrial Expansion,Minister,Religion
-19,James Garfield,"School Teacher, Minister, Soldier",1881,Republican,Industrial Expansion,Soldier,Military
-20,Chester Arthur,Customs Collector of NY port,1881,Republican,Industrial Expansion,Customs Collector of NY port,Government / Public Service
-21,Grover Cleveland,"Sheriff, Lawyer, Teacher",1885,Democratic,Industrial Expansion,Sheriff,Government / Public Service
-21,Grover Cleveland,"Sheriff, Lawyer, Teacher",1885,Democratic,Industrial Expansion,Lawyer,Law / Legal
-21,Grover Cleveland,"Sheriff, Lawyer, Teacher",1885,Democratic,Industrial Expansion,Teacher,Education / Academia
-22,Benjamin Harrison,"Lawyer, Journalist",1889,Republican,Industrial Expansion,Lawyer,Law / Legal
-22,Benjamin Harrison,"Lawyer, Journalist",1889,Republican,Industrial Expansion,Journalist,Media / Writing
-23,Grover Cleveland,"Sheriff, Lawyer, Teacher",1893,Democratic,Industrial Expansion,Sheriff,Government / Public Service
-23,Grover Cleveland,"Sheriff, Lawyer, Teacher",1893,Democratic,Industrial Expansion,Lawyer,Law / Legal
-23,Grover Cleveland,"Sheriff, Lawyer, Teacher",1893,Democratic,Industrial Expansion,Teacher,Education / Academia
-24,William McKinley,Lawyer,1897,Republican,Industrial Expansion,Lawyer,Law / Legal
-25,Theodore Roosevelt,"Public Official, Rancher, Author",1901,Republican,Industrial Expansion,Public Official,Government / Public Service
-25,Theodore Roosevelt,"Public Official, Rancher, Author",1901,Republican,Industrial Expansion,Rancher,Agriculture / Land
-25,Theodore Roosevelt,"Public Official, Rancher, Author",1901,Republican,Industrial Expansion,Author,Media / Writing
-26,William Taft,"Judge, Dean of Law School",1909,Republican,Industrial Expansion,Judge,Law / Legal
-26,William Taft,"Judge, Dean of Law School",1909,Republican,Industrial Expansion,Dean of Law School,Law / Legal
-27,Woodrow Wilson," Professor, Political scientist",1913,Democratic,Industrial Expansion,Professor,Education / Academia
-27,Woodrow Wilson," Professor, Political scientist",1913,Democratic,Industrial Expansion,Political scientist,Education / Academia
-28,Warren Harding,Newspaper Publisher/Editor,1921,Republican,World Wars,Newspaper Publisher/Editor,Media / Writing
-29,Calvin Coolidge,"Lawyer, Banker",1923,Republican,World Wars,Lawyer,Law / Legal
-29,Calvin Coolidge,"Lawyer, Banker",1923,Republican,World Wars,Banker,Business / Finance
-30,Herbert C. Hoover,Engineer,1929,Republican,World Wars,Engineer,Technical / Professional
-31,Franklin Roosevelt,Lawyer,1933,Democratic,World Wars,Lawyer,Law / Legal
-32,Harry S Truman,"Farmer, Men'S Clothing Retailer",1945,Democratic,World Wars,Farmer,Agriculture / Land
-32,Harry S Truman,"Farmer, Men'S Clothing Retailer",1945,Democratic,World Wars,Men'S Clothing Retailer,Business / Finance
-33,Dwight Eisenhower,"Soldier, General",1953,Republican,Cold War,Soldier,Military
-33,Dwight Eisenhower,"Soldier, General",1953,Republican,Cold War,General,Military
-34,John F. Kennedy," U.S. Navy Officer, Author",1961,Democratic,Cold War,U.S. Navy Officer,Military
-34,John F. Kennedy," U.S. Navy Officer, Author",1961,Democratic,Cold War,Author,Media / Writing
-35,Lyndon Johnson,"Teacher, Public Official",1963,Democratic,Cold War,Teacher,Education / Academia
-35,Lyndon Johnson,"Teacher, Public Official",1963,Democratic,Cold War,Public Official,Government / Public Service
-36,Richard Nixon,"Lawyer, Public Official",1969,Republican,Cold War,Lawyer,Law / Legal
-36,Richard Nixon,"Lawyer, Public Official",1969,Republican,Cold War,Public Official,Government / Public Service
-37,Gerald R. Ford,"Lawyer, Public Official",1974,Republican,Cold War,Lawyer,Law / Legal
-37,Gerald R. Ford,"Lawyer, Public Official",1974,Republican,Cold War,Public Official,Government / Public Service
-38,Jimmy Carter,"Navy Officer, Peanut Farmer",1977,Democratic,Cold War,Navy Officer,Military
-38,Jimmy Carter,"Navy Officer, Peanut Farmer",1977,Democratic,Cold War,Peanut Farmer,Agriculture / Land
-39,Ronald Reagan,"Actor, Union leaser",1981,Republican,Cold War,Actor,Media / Writing
-39,Ronald Reagan,"Actor, Union leaser",1981,Republican,Cold War,Union leaser,Trades / Labor
-40,George H. W. Bush,Businessman (Oil),1989,Republican,Cold War,Businessman (Oil),Business / Finance
-41,Bill Clinton,"Lawyer, Law Lecturer",1993,Democratic,Modern Day,Lawyer,Law / Legal
-41,Bill Clinton,"Lawyer, Law Lecturer",1993,Democratic,Modern Day,Law Lecturer,Law / Legal
-42,George W. Bush,"Businessman (Oil, Baseball) ",2001,Republican,Modern Day,Businessman (Oil,Business / Finance
-43,Barack Obama,Law Professor,2009,Democratic,Modern Day,Law Professor,Law / Legal
-44,Donald Trump,Real estate,2017,Republican,Modern Day,Real estate,Business / Finance
-45,Joe Biden,Lawyer,2021,Democratic,Modern Day,Lawyer,Law / Legal
-46,Donald Trump,Real estate,2025,Republican,Modern Day,Real estate,Business / Finance
+Name,term_start,era,occupation_group
+George Washington,1789,Founding Generation,Agriculture / Land
+George Washington,1789,Founding Generation,Military
+John Adams,1797,Founding Generation,Law / Legal
+John Adams,1797,Founding Generation,Agriculture / Land
+Thomas Jefferson,1801,Founding Generation,Technical / Professional
+Thomas Jefferson,1801,Founding Generation,Law / Legal
+Thomas Jefferson,1801,Founding Generation,Technical / Professional
+James Madison,1809,Founding Generation,Agriculture / Land
+James Madison,1809,Founding Generation,Law / Legal
+James Monroe,1817,Founding Generation,Agriculture / Land
+James Monroe,1817,Founding Generation,Law / Legal
+John Quincy Adams,1825,Founding Generation,Law / Legal
+John Quincy Adams,1825,Founding Generation,Government / Public Service
+Andrew Jackson,1829,Founding Generation,Military
+Andrew Jackson,1829,Founding Generation,Law / Legal
+Martin van Buren,1837,Founding Generation,Law / Legal
+William H. Harrison,1841,Founding Generation,Military
+John Tyler,1841,Founding Generation,Law / Legal
+James K. Polk,1845,Founding Generation,Law / Legal
+James K. Polk,1845,Founding Generation,Agriculture / Land
+Zachary Taylor,1849,Founding Generation,Military
+Millard Fillmore,1850,Founding Generation,Law / Legal
+Franklin Pierce,1853,Founding Generation,Law / Legal
+James Buchanan,1857,Founding Generation,Law / Legal
+James Buchanan,1857,Founding Generation,Government / Public Service
+Abraham Lincoln,1861,Civil War,Agriculture / Land
+Abraham Lincoln,1861,Civil War,Law / Legal
+Andrew Johnson,1865,Civil War,Trades / Labor
+Ulysses S. Grant,1869,Civil War,Military
+Rutherford Hayes,1877,Industrial Expansion,Law / Legal
+James Garfield,1881,Industrial Expansion,Education / Academia
+James Garfield,1881,Industrial Expansion,Religion
+James Garfield,1881,Industrial Expansion,Military
+Chester Arthur,1881,Industrial Expansion,Government / Public Service
+Grover Cleveland,1885,Industrial Expansion,Government / Public Service
+Grover Cleveland,1885,Industrial Expansion,Law / Legal
+Grover Cleveland,1885,Industrial Expansion,Education / Academia
+Benjamin Harrison,1889,Industrial Expansion,Law / Legal
+Benjamin Harrison,1889,Industrial Expansion,Media / Writing
+Grover Cleveland,1893,Industrial Expansion,Government / Public Service
+Grover Cleveland,1893,Industrial Expansion,Law / Legal
+Grover Cleveland,1893,Industrial Expansion,Education / Academia
+William McKinley,1897,Industrial Expansion,Law / Legal
+Theodore Roosevelt,1901,Industrial Expansion,Government / Public Service
+Theodore Roosevelt,1901,Industrial Expansion,Agriculture / Land
+Theodore Roosevelt,1901,Industrial Expansion,Media / Writing
+William Taft,1909,Industrial Expansion,Law / Legal
+William Taft,1909,Industrial Expansion,Law / Legal
+Woodrow Wilson,1913,Industrial Expansion,Education / Academia
+Woodrow Wilson,1913,Industrial Expansion,Education / Academia
+Warren Harding,1921,World Wars,Media / Writing
+Calvin Coolidge,1923,World Wars,Law / Legal
+Calvin Coolidge,1923,World Wars,Business / Finance
+Herbert C. Hoover,1929,World Wars,Technical / Professional
+Franklin Roosevelt,1933,World Wars,Law / Legal
+Harry S Truman,1945,World Wars,Agriculture / Land
+Harry S Truman,1945,World Wars,Business / Finance
+Dwight Eisenhower,1953,Cold War,Military
+Dwight Eisenhower,1953,Cold War,Military
+John F. Kennedy,1961,Cold War,Military
+John F. Kennedy,1961,Cold War,Media / Writing
+Lyndon Johnson,1963,Cold War,Education / Academia
+Lyndon Johnson,1963,Cold War,Government / Public Service
+Richard Nixon,1969,Cold War,Law / Legal
+Richard Nixon,1969,Cold War,Government / Public Service
+Gerald R. Ford,1974,Cold War,Law / Legal
+Gerald R. Ford,1974,Cold War,Government / Public Service
+Jimmy Carter,1977,Cold War,Military
+Jimmy Carter,1977,Cold War,Agriculture / Land
+Ronald Reagan,1981,Cold War,Media / Writing
+Ronald Reagan,1981,Cold War,Trades / Labor
+George H. W. Bush,1989,Cold War,Business / Finance
+Bill Clinton,1993,Modern Day,Law / Legal
+Bill Clinton,1993,Modern Day,Law / Legal
+George W. Bush,2001,Modern Day,Business / Finance
+Barack Obama,2009,Modern Day,Law / Legal
+Donald Trump,2017,Modern Day,Business / Finance
+Joe Biden,2021,Modern Day,Law / Legal
+Donald Trump,2025,Modern Day,Business / Finance
