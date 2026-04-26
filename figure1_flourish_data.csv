@@ -1,0 +1,13 @@
+Era,Proportion with Military Experience,pop-up description
+Founding Generation,0.8,"<b>1789–1860</b><br>
+This era covers the early republic through the years just before the Civil War. It includes 15 presidents, from George Washington through James Buchanan. <b>12 out of 15 presidents</b> had military experience, or <b>80%</b>."
+Civil War,1,"<b>1861–1876</b><br>
+This era begins with Abraham Lincoln and covers the Civil War and early Reconstruction period. It includes 3 presidents: Lincoln, Andrew Johnson, and Ulysses S. Grant. <b>3 out of 3 presidents</b> had military experience, or <b>100%</b>."
+Industrial Expansion,0.6,"<b>1877–1916</b><br>
+This era covers the post-Reconstruction years, the Gilded Age, and the Progressive Era before U.S. entry into World War I. It includes 10 presidents. <b>6 out of 10 presidents</b> had military experience, or <b>60.0%</b>."
+World Wars,0.2,"<b>1917–1944</b><br>
+This era begins with U.S. entry into World War I and continues through World War II. It includes 5 presidents, from Woodrow Wilson through Franklin D. Roosevelt. <b>1 out of 5 presidents</b> had military experience, or <b>20.0%</b>."
+Cold War,1,"<b>1945–1990</b><br>
+This era begins after World War II and covers the period of U.S.–Soviet rivalry through George H. W. Bush. It includes 8 presidents. <b>8 out of 8 presidents</b> had military experience, or <b>100%</b>."
+Modern Day,0.166667,"<b>1991–present</b><br>
+This era covers the post-Cold War presidency, beginning with Bill Clinton. It includes 6 presidencies in this dataset. <b>1 out of 6 presidents</b> had military experience, or <b>16.7%</b>."

@@ -1,0 +1,91 @@
+era,President,President Label,Education Level,Military Level,Foreign Languages Spoke,Age,Number of Children,Real Education Level,Real Military Level,Real Foreign Languages Spoke,Real Age,RealNumber of Children
+Founding Generation,George Washington,George Washington,0,5,0,2.026069708,0.625,0,4,1,57.18,2
+Founding Generation,John Adams,John Adams,3.333333333,0,1.25,2.615471805,1.875,2,0,3,61.34,6
+Founding Generation,Thomas Jefferson,Thomas Jefferson,1.666666667,2.5,3.75,2.126664778,4.375,1,2,7,57.89,14
+Founding Generation,James Madison,James Madison,1.666666667,2.5,1.875,2.137999433,0.625,1,2,4,57.97,2
+Founding Generation,James Monroe,James Monroe,0,2.5,0.625,2.262680646,0.9375,0,2,2,58.85,3
+Founding Generation,John Quincy Adams,John Quincy Adams,3.333333333,0,5,2.09266081,1.5625,2,0,9,57.65,5
+Founding Generation,Andrew Jackson,Andrew Jackson,0,3.75,0,2.704732219,0.9375,0,3,1,61.97,3
+Founding Generation,Martin Van Buren,Martin Van Buren,0,0,1.25,1.609521111,1.875,0,0,3,54.24,6
+Founding Generation,William Henry Harrison,William Henry Harrison,0,3.75,1.25,3.567582885,5,0,3,3,68.06,16
+Founding Generation,John Tyler,John Tyler,1.666666667,1.25,1.25,1.153301218,5,1,1,3,51.02,16
+Founding Generation,James K. Polk,James K. Polk,1.666666667,2.5,1.25,0.9138566166,0,1,2,3,49.33,0
+Founding Generation,Zachary Taylor,Zachary Taylor,0,3.75,0,2.605553981,1.875,0,3,1,61.27,6
+Founding Generation,Millard Fillmore,Millard Fillmore,0,2.5,0,1.079625956,0.625,0,2,1,50.5,2
+Founding Generation,Franklin Pierce,Franklin Pierce,1.666666667,3.75,0,0.7650892604,0.9375,1,3,1,48.28,3
+Founding Generation,James Buchanan,James Buchanan,1.666666667,1.25,1.25,3.255879853,0.625,1,1,3,65.86,2
+Civil War,Abraham Lincoln,Abraham Lincoln,0,1.25,0,1.299234911,1.25,0,1,1,52.05,4
+Civil War,Andrew Johnson,Andrew Johnson,0,3.75,0,1.899971663,1.5625,0,3,1,56.29,5
+Civil War,Ulysses S. Grant,Ulysses S. Grant,1.666666667,5,0,0.5624822896,1.25,1,4,1,46.85,4
+Industrial Expansion,Rutherford B. Hayes,Rutherford B. Hayes,1.666666667,3.75,1.875,1.633607254,2.5,1,3,4,54.41,8
+Industrial Expansion,James A. Garfield,James A. Garfield,1.666666667,3.75,1.25,0.9081892888,2.1875,1,3,3,49.29,7
+Industrial Expansion,Chester A. Arthur,Chester A. Arthur,1.666666667,2.5,1.25,1.286483423,0.9375,1,2,3,51.96,3
+Industrial Expansion,Grover Cleveland,Grover Cleveland,0,0,0,0.7197506376,1.875,0,0,1,47.96,6
+Industrial Expansion,Benjamin Harrison,Benjamin Harrison,1.666666667,3.75,0,2.360442052,1.25,1,3,1,59.54,4
+Industrial Expansion,William McKinley,William McKinley,0,2.5,0,2.230093511,0.625,0,2,1,58.62,2
+Industrial Expansion,Theodore Roosevelt,Theodore Roosevelt,1.666666667,2.5,4.375,0,1.875,1,2,8,42.88,6
+Industrial Expansion,William Howard Taft,William Howard Taft,1.666666667,0,0,1.783791442,0.9375,1,0,1,55.47,3
+World Wars,Woodrow Wilson,Woodrow Wilson,5,0,0.625,3.017852083,0.9375,3,0,2,64.18,3
+World Wars,Warren G. Harding,Warren G. Harding,1.666666667,0,0,2.10682913,0.625,1,0,1,57.75,2
+World Wars,Calvin Coolidge,Calvin Coolidge,1.666666667,0,0,1.953811278,0.625,1,0,1,56.67,2
+World Wars,Herbert Hoover,Herbert Hoover,1.666666667,0,1.25,2.221592519,0.625,1,0,3,58.56,2
+World Wars,Franklin D. Roosevelt,Franklin D. Roosevelt,1.666666667,0,1.875,1.163219042,1.875,1,0,4,51.09,6
+World Wars,Harry S. Truman,Harry S. Truman,0,2.5,0,2.557381695,0.3125,0,2,1,60.93,1
+Cold War,Dwight D. Eisenhower,Dwight D. Eisenhower,1.666666667,5,0,2.747237178,0.625,1,4,1,62.27,2
+Cold War,John F. Kennedy,John F. Kennedy,1.666666667,1.25,0,0.1090960612,1.25,1,1,1,43.65,4
+Cold War,Lyndon B. Johnson,Lyndon B. Johnson,1.666666667,2.5,0,1.751204307,0.625,1,2,1,55.24,2
+Cold War,Richard Nixon,Richard Nixon,5,2.5,0,1.863134032,0.625,3,2,1,56.03,2
+Cold War,Gerald Ford,Gerald Ford,1.666666667,2.5,0,2.577217342,1.25,1,2,1,61.07,4
+Cold War,Jimmy Carter,Jimmy Carter,1.666666667,1.25,0.625,1.33465571,1.25,1,1,2,52.3,4
+Cold War,Ronald Reagan,Ronald Reagan,0,1.25,0,3.836780958,1.5625,1,1,1,69.96,5
+Cold War,George H. W. Bush,George H. W. Bush,1.666666667,1.25,0,1.65202607,1.875,1,1,1,54.54,6
+Modern Day,Bill Clinton,Bill Clinton,5,0,0.625,0.5015585152,0.3125,3,0,2,46.42,1
+Modern Day,George W. Bush,George W. Bush,3.333333333,1.25,0.625,1.65202607,0.625,2,1,2,54.54,2
+Modern Day,Barack Obama,Barack Obama,5,0,0.625,0.6489090394,0.625,3,0,2,47.46,2
+Modern Day,Donald Trump,Donald Trump,1.666666667,0,0,3.927458203,1.5625,1,0,1,70.6,5
+Modern Day,Joe Biden,Joe Biden,5,0,0,5,1.25,3,0,1,78.17,4
+Founding Generation Typical,Founding Generation Typical Profile,George Washington,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,John Adams,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,Thomas Jefferson,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,James Madison,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,James Monroe,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,John Quincy Adams,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,Andrew Jackson,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,Martin Van Buren,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,William Henry Harrison,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,John Tyler,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,James K. Polk,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,Zachary Taylor,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,Millard Fillmore,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,Franklin Pierce,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Founding Generation Typical,Founding Generation Typical Profile,James Buchanan,1.11,2.4,1.25,2.06,1.79,0.67,1.87,3,57.43,5.73
+Civil War Typical,Civil War Typical Profile,Abraham Lincoln,0.56,3.33,0,1.25,1.35,0.33,2.67,1,51.73,4.33
+Civil War Typical,Civil War Typical Profile,Andrew Johnson,0.56,3.33,0,1.25,1.35,0.33,2.67,1,51.73,4.33
+Civil War Typical,Civil War Typical Profile,Ulysses S. Grant,0.56,3.33,0,1.25,1.35,0.33,2.67,1,51.73,4.33
+Industrial Expansion Typical,Industrial Expansion Typical Profile,Rutherford B. Hayes,1.25,2.19,1.09,1.37,1.52,0.75,1.88,2.75,52.52,4.88
+Industrial Expansion Typical,Industrial Expansion Typical Profile,James A. Garfield,1.25,2.19,1.09,1.37,1.52,0.75,1.88,2.75,52.52,4.88
+Industrial Expansion Typical,Industrial Expansion Typical Profile,Chester A. Arthur,1.25,2.19,1.09,1.37,1.52,0.75,1.88,2.75,52.52,4.88
+Industrial Expansion Typical,Industrial Expansion Typical Profile,Grover Cleveland,1.25,2.19,1.09,1.37,1.52,0.75,1.88,2.75,52.52,4.88
+Industrial Expansion Typical,Industrial Expansion Typical Profile,Benjamin Harrison,1.25,2.19,1.09,1.37,1.52,0.75,1.88,2.75,52.52,4.88
+Industrial Expansion Typical,Industrial Expansion Typical Profile,William McKinley,1.25,2.19,1.09,1.37,1.52,0.75,1.88,2.75,52.52,4.88
+Industrial Expansion Typical,Industrial Expansion Typical Profile,Theodore Roosevelt,1.25,2.19,1.09,1.37,1.52,0.75,1.88,2.75,52.52,4.88
+Industrial Expansion Typical,Industrial Expansion Typical Profile,William Howard Taft,1.25,2.19,1.09,1.37,1.52,0.75,1.88,2.75,52.52,4.88
+World Wars Typical,World Wars Typical Profile,Woodrow Wilson,2.33,0.4,0.75,2.09,0.94,1.4,0.4,2.2,57.65,3
+World Wars Typical,World Wars Typical Profile,Warren G. Harding,2.33,0.4,0.75,2.09,0.94,1.4,0.4,2.2,57.65,3
+World Wars Typical,World Wars Typical Profile,Calvin Coolidge,2.33,0.4,0.75,2.09,0.94,1.4,0.4,2.2,57.65,3
+World Wars Typical,World Wars Typical Profile,Herbert Hoover,2.33,0.4,0.75,2.09,0.94,1.4,0.4,2.2,57.65,3
+World Wars Typical,World Wars Typical Profile,Franklin D. Roosevelt,2.33,0.4,0.75,2.09,0.94,1.4,0.4,2.2,57.65,3
+World Wars Typical,World Wars Typical Profile,Harry S. Truman,2.33,0.4,0.75,2.09,0.94,1.4,0.4,2.2,57.65,3
+Cold War Typical,Cold War Typical Profile,Dwight D. Eisenhower,1.67,1.5,0.07,2.05,1.04,1.11,1.78,1.11,57.33,3.33
+Cold War Typical,Cold War Typical Profile,John F. Kennedy,1.67,1.5,0.07,2.05,1.04,1.11,1.78,1.11,57.33,3.33
+Cold War Typical,Cold War Typical Profile,Lyndon B. Johnson,1.67,1.5,0.07,2.05,1.04,1.11,1.78,1.11,57.33,3.33
+Cold War Typical,Cold War Typical Profile,Richard Nixon,1.67,1.5,0.07,2.05,1.04,1.11,1.78,1.11,57.33,3.33
+Cold War Typical,Cold War Typical Profile,Gerald Ford,1.67,1.5,0.07,2.05,1.04,1.11,1.78,1.11,57.33,3.33
+Cold War Typical,Cold War Typical Profile,Jimmy Carter,1.67,1.5,0.07,2.05,1.04,1.11,1.78,1.11,57.33,3.33
+Cold War Typical,Cold War Typical Profile,Ronald Reagan,1.67,1.5,0.07,2.05,1.04,1.11,1.78,1.11,57.33,3.33
+Cold War Typical,Cold War Typical Profile,George H. W. Bush,1.67,1.5,0.07,2.05,1.04,1.11,1.78,1.11,57.33,3.33
+Modern Day Typical,Modern Day Typical Profile,Bill Clinton,4,0.25,0.38,2.35,0.88,2.4,0.2,1.6,59.44,2.8
+Modern Day Typical,Modern Day Typical Profile,George W. Bush,4,0.25,0.38,2.35,0.88,2.4,0.2,1.6,59.44,2.8
+Modern Day Typical,Modern Day Typical Profile,Barack Obama,4,0.25,0.38,2.35,0.88,2.4,0.2,1.6,59.44,2.8
+Modern Day Typical,Modern Day Typical Profile,Donald Trump,4,0.25,0.38,2.35,0.88,2.4,0.2,1.6,59.44,2.8
+Modern Day Typical,Modern Day Typical Profile,Joe Biden,4,0.25,0.38,2.35,0.88,2.4,0.2,1.6,59.44,2.8
